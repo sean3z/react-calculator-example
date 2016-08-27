@@ -6,9 +6,6 @@ var Number = require('./Children/Number');
 var Operator = require('./Children/Operator');
 var Results = require('./Children/Results');
 
-// Helper Function
-var helpers = require('./utils/helpers.js');
-
 // This is the main component. 
 var Main = React.createClass({
 
